@@ -12,9 +12,11 @@ The project consists of several key components:
 	5.	Validation and Inference: After training, the model is validated on the validation set to assess its performance. The system also includes functionality to perform inference on new images, demonstrating the model’s ability to detect license plates in unseen data.
  
 Key Features
+
 	•	Automated conversion of XML annotations to YOLO format
 	•	Dataset splitting and organization for training and validation
 	•	YOLOv8 model training with customizable parameters
 	•	Model validation and inference capabilities
 	•	Focused on single-class detection (license plates)
+ 
 This project streamlines the process of creating a custom license plate detection system, from data preparation to model deployment, making it easier for researchers and developers to implement object detection for specific use cases.
